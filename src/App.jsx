@@ -1,8 +1,20 @@
 import React from 'react'
+import NavBar from '../componentes/NavBar/NavBar'
+import ItemListContainer from '../componentes/ItemListConatiner/ItemListContainer'
 
 const App = () => {
   return (
-    <div>App</div>
+    <div>
+
+
+
+
+
+
+
+      <NavBar/>
+      <ItemListContainer/>
+    </div>
   )
 }
 
