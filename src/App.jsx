@@ -13,7 +13,7 @@ const App = () => {
 
 
       <NavBar/>
-      <ItemListContainer/>
+      <ItemListContainer mensaje="Estamos trabajando para mejorar tu experiencia. Pronto podrás acceder a nuestro catálogo"/>
     </div>
   )
 }
